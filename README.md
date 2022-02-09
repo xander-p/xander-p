@@ -1,7 +1,7 @@
 ### Hello there 👋
-> 🎓 Currently, I am working on a PhD research that involves computational analysis of interactome in the human hepatic microenvironment. 
-> 🌍 I'd be delighted to explore partnerships or participate in a hackathon or educational initiative.
-> 🧬 Self-taught in bioinformatics since 2016 and ongoing. Genomics -> single-cell transcriptomics -> ?.  
+> 🎓 Currently, I am working on a PhD research that involves computational analysis of interactome in the human hepatic microenvironment.  
+> 🌍 I'd be delighted to explore partnerships or participate in a hackathon or educational initiative.  
+> 🧬 Self-taught in bioinformatics since 2016 and ongoing. Genomics -> single-cell transcriptomics -> ?.    
 > ⌨️ Every now and then, sharing some ideas via the blog: https://mutation.me  
   
 #### I mostly write with:
