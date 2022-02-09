@@ -1,8 +1,8 @@
 ### Hello there 👋
-> 🎓 I am currently working on a PhD project, which involves computational analysis of cell-cell interactions of the human hepatic microenvironment. 
-> 🌍 Happy to discuss collaboration or contribute to a hackathon or an educational project. 
-> 🧬 Self-taught in bioinformatics since 2016 and ongoing. Genomics -> single-cell transcriptomics -> ?.
-> ⌨️ Publish some thoughts on my personal blog: https://mutation.me
+> 🎓 I am currently working on a PhD project, which involves computational analysis of cell-cell interactions of the human hepatic microenvironment.  
+> 🌍 Happy to discuss collaboration or contribute to a hackathon or an educational project.  
+> 🧬 Self-taught in bioinformatics since 2016 and ongoing. Genomics -> single-cell transcriptomics -> ?.  
+> ⌨️ Publish some thoughts on my personal blog: https://mutation.me  
 
 #### I mostly write with:
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
