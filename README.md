@@ -1,6 +1,6 @@
 ### Hello there 👋
 🎓 Working as a Project Scientist at Tim Hendrikx lab @ MedUni Vienna. Researching multi-omics interactome in chronic liver disease with immunological focus.   
-🧬 70% computational, 30% wet lab / in vivo. Passion: therapeutic target and biomarker discovery in human disease.
+🧬 70% computational, 30% wet lab / in vivo. Passion: therapeutic target and biomarker discovery in human disease.  
 🌍 Usually available (and down for) cooperation and tutoring/career support.    
 ⌨️ Every now and then, sharing something via my blog: [mutation.me](https://mutation.me).  
 🇺🇦 For Ukrainian students and colleagues interested in life sciences, omics, and bioinformatics: check out [Genomics UA](https://genomics.org.ua).
